@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/kargadan/Desktop/projects/Xilinx/seq_detector/seq_detector/testbench_seq_detector.xst" -ofn "C:/Users/kargadan/Desktop/projects/Xilinx/seq_detector/seq_detector/testbench_seq_detector.syr" 

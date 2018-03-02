@@ -1,0 +1,2 @@
+verilog work "seq_detector.v"
+verilog work "testbench_seq_detector.v"

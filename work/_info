@@ -1,0 +1,61 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/kargadan/Desktop/projects/Xilinx/addsub_8bit
+T_opt
+!s110 1519991683
+VJFa>?YS2Bk?Q=bED<BSVU2
+04 22 4 work testbench_seq_detector fast 0
+=1-3497f6175103-5a993b83-13e-21a4
+o-quiet -auto_acc_if_foreign -work work -L work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;10.5;63
+vseq_detector
+Z1 !s110 1519991677
+!i10b 1
+!s100 g^a^LeRGCQN<Ue3S;iLU61
+Ie_0Uk;W]>l>R@kc^GJS3^1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/kargadan/Desktop/projects/Xilinx/seq_detector
+w1519991463
+8C:/Users/kargadan/Desktop/projects/Xilinx/seq_detector/seq_detector/seq_detector.v
+FC:/Users/kargadan/Desktop/projects/Xilinx/seq_detector/seq_detector/seq_detector.v
+Z4 L0 21
+Z5 OL;L;10.5;63
+r1
+!s85 0
+31
+Z6 !s108 1519991677.000000
+!s107 C:/Users/kargadan/Desktop/projects/Xilinx/seq_detector/seq_detector/seq_detector.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/kargadan/Desktop/projects/Xilinx/seq_detector/seq_detector/seq_detector.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vtestbench_seq_detector
+R1
+!i10b 1
+!s100 UgQhK2>MkL:CN?BR@z3JC2
+I0W98;ZLBd8mC`n11_>PEd1
+R2
+R3
+w1519991659
+8C:/Users/kargadan/Desktop/projects/Xilinx/seq_detector/seq_detector/testbench_seq_detector.v
+FC:/Users/kargadan/Desktop/projects/Xilinx/seq_detector/seq_detector/testbench_seq_detector.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/kargadan/Desktop/projects/Xilinx/seq_detector/seq_detector/testbench_seq_detector.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/kargadan/Desktop/projects/Xilinx/seq_detector/seq_detector/testbench_seq_detector.v|
+!i113 0
+R7
+R0
